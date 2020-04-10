@@ -1,6 +1,7 @@
-
+﻿
 // MyTest.cpp : 定义应用程序的类行为。
 //我新添加的
+//本地测试
 
 #include "stdafx.h"
 #include "MyTest.h"
